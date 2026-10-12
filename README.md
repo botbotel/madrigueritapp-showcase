@@ -263,16 +263,25 @@ The project remains under active development.
 
 ## Screenshots
 
-Product screenshots will be added here progressively.
+These views show the current mobile product experience. The same product architecture also targets Web through Expo.
 
-Planned showcase views:
+<table>
+<tr>
+<td align="center"><strong>Home</strong><br><img src="docs/screenshots/home.webp" width="260" alt="MadrigueritApp home screen"></td>
+<td align="center"><strong>Calendar</strong><br><img src="docs/screenshots/calendar.webp" width="260" alt="MadrigueritApp calendar screen"></td>
+</tr>
+<tr>
+<td align="center"><strong>Expenses</strong><br><img src="docs/screenshots/expenses.webp" width="260" alt="MadrigueritApp expenses screen"></td>
+<td align="center"><strong>Household settings</strong><br><img src="docs/screenshots/settings.webp" width="260" alt="MadrigueritApp household settings screen"></td>
+</tr>
+</table>
 
-1. Home / household dashboard
-2. Tickets
-3. Calendar
-4. Shopping
-5. Expenses
-6. Household settings
+- **Home:** active household summary, monthly expenses, upcoming items and pending shopping.
+- **Calendar:** unified view of household events and dated tickets.
+- **Expenses:** monthly totals, category breakdown and recent movements.
+- **Household settings:** membership, invitation-code flow and account actions.
+
+Additional Tickets and Shopping views will be added as the product evolves.
 
 ---
 
