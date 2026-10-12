@@ -1,5 +1,7 @@
 # MadrigueritApp
 
+🇬🇧 **English** | 🇪🇸 [Español](docs/README.es.md)
+
 **Cross-platform household management product built with React Native, Expo, TypeScript and Firebase.**
 
 > **Portfolio showcase only.**  
