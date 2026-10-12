@@ -264,16 +264,25 @@ El proyecto continúa en desarrollo activo.
 
 ## Capturas
 
-Las capturas del producto se añadirán progresivamente.
+Estas vistas muestran la experiencia móvil actual del producto. La misma arquitectura también está orientada a Web mediante Expo.
 
-Vistas previstas para el showcase:
+<table>
+<tr>
+<td align="center"><strong>Inicio</strong><br><img src="screenshots/home.webp" width="260" alt="Pantalla de inicio de MadrigueritApp"></td>
+<td align="center"><strong>Calendario</strong><br><img src="screenshots/calendar.webp" width="260" alt="Pantalla de calendario de MadrigueritApp"></td>
+</tr>
+<tr>
+<td align="center"><strong>Cuentas / Gastos</strong><br><img src="screenshots/expenses.webp" width="260" alt="Pantalla de gastos de MadrigueritApp"></td>
+<td align="center"><strong>Ajustes del hogar</strong><br><img src="screenshots/settings.webp" width="260" alt="Pantalla de ajustes de MadrigueritApp"></td>
+</tr>
+</table>
 
-1. Inicio / panel del hogar
-2. Tickets
-3. Calendario
-4. Compra
-5. Gastos
-6. Ajustes del hogar
+- **Inicio:** resumen del hogar activo, gastos del mes, próximos elementos y compra pendiente.
+- **Calendario:** vista unificada de eventos del hogar y tickets con fecha.
+- **Cuentas / Gastos:** total mensual, categorías y movimientos recientes.
+- **Ajustes del hogar:** membresía, flujo de código de invitación y acciones de cuenta.
+
+Más adelante se añadirán vistas de Tickets y Compra a medida que evolucione el producto.
 
 ---
 
